@@ -5,6 +5,6 @@ aaa battery holder by MatNS: https://www.thingiverse.com/thing:4725120
 
 the mouse glides that i used were a pre-cut version of these and from the same brand: https://amzn.in/d/8VKruqz
 
-full video here, containing complete guide [parts, assembly and problems]: www.youtube.com/to-be-uploaded-qwertyuiop
+full video here, containing complete guide [parts, assembly and problems]: https://youtu.be/fjUKtlBuGDc
 
 if you've got a question, check the video! i tried to be as thorough as possible!
