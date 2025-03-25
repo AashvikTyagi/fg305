@@ -9,4 +9,4 @@ full video here, containing complete guide [parts, assembly and problems]: https
 
 if you've got a question, check the video and website ! i tried to be as thorough as possible!
 
-![view of mouse mod 3d model](https://raw.githubusercontent.com/AashvikTyagi/writing/main/2024-06-14_FG305:_Helping_A_Computer_Mouse_Lose_Weight/assets/3d-cad.webp)
+![view of mouse mod 3d model](https://raw.githubusercontent.com/AashvikTyagi/writing/main/fg305/assets/3d-cad.webp)
